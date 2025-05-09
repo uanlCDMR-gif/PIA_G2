@@ -1,0 +1,2502 @@
+[
+    {
+        "Nombre": "Botswana",
+        "Población": 2351625,
+        "Área (km²)": 582000.0,
+        "Densidad (hab/km²)": 4.04,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "English, Tswana",
+        "Monedas": "BWP (Botswana pula)"
+    },
+    {
+        "Nombre": "Tonga",
+        "Población": 105697,
+        "Área (km²)": 747.0,
+        "Densidad (hab/km²)": 141.5,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Tongan",
+        "Monedas": "TOP (Tongan paʻanga)"
+    },
+    {
+        "Nombre": "Greece",
+        "Población": 10715549,
+        "Área (km²)": 131990.0,
+        "Densidad (hab/km²)": 81.18,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Greek",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Marshall Islands",
+        "Población": 59194,
+        "Área (km²)": 181.0,
+        "Densidad (hab/km²)": 327.04,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "English, Marshallese",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Belarus",
+        "Población": 9398861,
+        "Área (km²)": 207600.0,
+        "Densidad (hab/km²)": 45.27,
+        "Región": "Europe",
+        "Subregión": "Eastern Europe",
+        "Idiomas": "Belarusian, Russian",
+        "Monedas": "BYN (Belarusian ruble)"
+    },
+    {
+        "Nombre": "Republic of the Congo",
+        "Población": 5657000,
+        "Área (km²)": 342000.0,
+        "Densidad (hab/km²)": 16.54,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "French, Kikongo, Lingala",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Tanzania",
+        "Población": 59734213,
+        "Área (km²)": 945087.0,
+        "Densidad (hab/km²)": 63.2,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, Swahili",
+        "Monedas": "TZS (Tanzanian shilling)"
+    },
+    {
+        "Nombre": "Liechtenstein",
+        "Población": 38137,
+        "Área (km²)": 160.0,
+        "Densidad (hab/km²)": 238.36,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "German",
+        "Monedas": "CHF (Swiss franc)"
+    },
+    {
+        "Nombre": "Sint Maarten",
+        "Población": 40812,
+        "Área (km²)": 34.0,
+        "Densidad (hab/km²)": 1200.35,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English, French, Dutch",
+        "Monedas": "ANG (Netherlands Antillean guilder)"
+    },
+    {
+        "Nombre": "Bosnia and Herzegovina",
+        "Población": 3280815,
+        "Área (km²)": 51209.0,
+        "Densidad (hab/km²)": 64.07,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Bosnian, Croatian, Serbian",
+        "Monedas": "BAM (Bosnia and Herzegovina convertible mark)"
+    },
+    {
+        "Nombre": "Bahrain",
+        "Población": 1701583,
+        "Área (km²)": 765.0,
+        "Densidad (hab/km²)": 2224.29,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "BHD (Bahraini dinar)"
+    },
+    {
+        "Nombre": "Kenya",
+        "Población": 53771300,
+        "Área (km²)": 580367.0,
+        "Densidad (hab/km²)": 92.65,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, Swahili",
+        "Monedas": "KES (Kenyan shilling)"
+    },
+    {
+        "Nombre": "Estonia",
+        "Población": 1331057,
+        "Área (km²)": 45227.0,
+        "Densidad (hab/km²)": 29.43,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Estonian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Qatar",
+        "Población": 2881060,
+        "Área (km²)": 11586.0,
+        "Densidad (hab/km²)": 248.67,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "QAR (Qatari riyal)"
+    },
+    {
+        "Nombre": "Poland",
+        "Población": 37950802,
+        "Área (km²)": 312679.0,
+        "Densidad (hab/km²)": 121.37,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "Polish",
+        "Monedas": "PLN (Polish złoty)"
+    },
+    {
+        "Nombre": "Moldova",
+        "Población": 2617820,
+        "Área (km²)": 33846.0,
+        "Densidad (hab/km²)": 77.35,
+        "Región": "Europe",
+        "Subregión": "Eastern Europe",
+        "Idiomas": "Romanian",
+        "Monedas": "MDL (Moldovan leu)"
+    },
+    {
+        "Nombre": "Jordan",
+        "Población": 10203140,
+        "Área (km²)": 89342.0,
+        "Densidad (hab/km²)": 114.2,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "JOD (Jordanian dinar)"
+    },
+    {
+        "Nombre": "Tunisia",
+        "Población": 11818618,
+        "Área (km²)": 163610.0,
+        "Densidad (hab/km²)": 72.24,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic",
+        "Monedas": "TND (Tunisian dinar)"
+    },
+    {
+        "Nombre": "Paraguay",
+        "Población": 7132530,
+        "Área (km²)": 406752.0,
+        "Densidad (hab/km²)": 17.54,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Guaraní, Spanish",
+        "Monedas": "PYG (Paraguayan guaraní)"
+    },
+    {
+        "Nombre": "Malaysia",
+        "Población": 32365998,
+        "Área (km²)": 330803.0,
+        "Densidad (hab/km²)": 97.84,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "English, Malay",
+        "Monedas": "MYR (Malaysian ringgit)"
+    },
+    {
+        "Nombre": "Cameroon",
+        "Población": 26545864,
+        "Área (km²)": 475442.0,
+        "Densidad (hab/km²)": 55.83,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "English, French",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Solomon Islands",
+        "Población": 686878,
+        "Área (km²)": 28896.0,
+        "Densidad (hab/km²)": 23.77,
+        "Región": "Oceania",
+        "Subregión": "Melanesia",
+        "Idiomas": "English",
+        "Monedas": "SBD (Solomon Islands dollar)"
+    },
+    {
+        "Nombre": "Mongolia",
+        "Población": 3278292,
+        "Área (km²)": 1564110.0,
+        "Densidad (hab/km²)": 2.1,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Mongolian",
+        "Monedas": "MNT (Mongolian tögrög)"
+    },
+    {
+        "Nombre": "Vanuatu",
+        "Población": 307150,
+        "Área (km²)": 12189.0,
+        "Densidad (hab/km²)": 25.2,
+        "Región": "Oceania",
+        "Subregión": "Melanesia",
+        "Idiomas": "Bislama, English, French",
+        "Monedas": "VUV (Vanuatu vatu)"
+    },
+    {
+        "Nombre": "Nepal",
+        "Población": 29136808,
+        "Área (km²)": 147181.0,
+        "Densidad (hab/km²)": 197.97,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Nepali",
+        "Monedas": "NPR (Nepalese rupee)"
+    },
+    {
+        "Nombre": "Guam",
+        "Población": 168783,
+        "Área (km²)": 549.0,
+        "Densidad (hab/km²)": 307.44,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "Chamorro, English, Spanish",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Lebanon",
+        "Población": 6825442,
+        "Área (km²)": 10452.0,
+        "Densidad (hab/km²)": 653.03,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic, French",
+        "Monedas": "LBP (Lebanese pound)"
+    },
+    {
+        "Nombre": "Ivory Coast",
+        "Población": 26378275,
+        "Área (km²)": 322463.0,
+        "Densidad (hab/km²)": 81.8,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Ecuador",
+        "Población": 17643060,
+        "Área (km²)": 276841.0,
+        "Densidad (hab/km²)": 63.73,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Spanish",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Palau",
+        "Población": 18092,
+        "Área (km²)": 459.0,
+        "Densidad (hab/km²)": 39.42,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "English, Palauan",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Kyrgyzstan",
+        "Población": 6591600,
+        "Área (km²)": 199951.0,
+        "Densidad (hab/km²)": 32.97,
+        "Región": "Asia",
+        "Subregión": "Central Asia",
+        "Idiomas": "Kyrgyz, Russian",
+        "Monedas": "KGS (Kyrgyzstani som)"
+    },
+    {
+        "Nombre": "Egypt",
+        "Población": 102334403,
+        "Área (km²)": 1002450.0,
+        "Densidad (hab/km²)": 102.08,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic",
+        "Monedas": "EGP (Egyptian pound)"
+    },
+    {
+        "Nombre": "North Korea",
+        "Población": 25778815,
+        "Área (km²)": 120538.0,
+        "Densidad (hab/km²)": 213.86,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Korean",
+        "Monedas": "KPW (North Korean won)"
+    },
+    {
+        "Nombre": "Senegal",
+        "Población": 16743930,
+        "Área (km²)": 196722.0,
+        "Densidad (hab/km²)": 85.11,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "British Virgin Islands",
+        "Población": 30237,
+        "Área (km²)": 151.0,
+        "Densidad (hab/km²)": 200.25,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Costa Rica",
+        "Población": 5094114,
+        "Área (km²)": 51100.0,
+        "Densidad (hab/km²)": 99.69,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "CRC (Costa Rican colón)"
+    },
+    {
+        "Nombre": "Guatemala",
+        "Población": 16858333,
+        "Área (km²)": 108889.0,
+        "Densidad (hab/km²)": 154.82,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "GTQ (Guatemalan quetzal)"
+    },
+    {
+        "Nombre": "China",
+        "Población": 1402112000,
+        "Área (km²)": 9706961.0,
+        "Densidad (hab/km²)": 144.44,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Chinese",
+        "Monedas": "CNY (Chinese yuan)"
+    },
+    {
+        "Nombre": "Kazakhstan",
+        "Población": 18754440,
+        "Área (km²)": 2724900.0,
+        "Densidad (hab/km²)": 6.88,
+        "Región": "Asia",
+        "Subregión": "Central Asia",
+        "Idiomas": "Kazakh, Russian",
+        "Monedas": "KZT (Kazakhstani tenge)"
+    },
+    {
+        "Nombre": "Cape Verde",
+        "Población": 555988,
+        "Área (km²)": 4033.0,
+        "Densidad (hab/km²)": 137.86,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "Portuguese",
+        "Monedas": "CVE (Cape Verdean escudo)"
+    },
+    {
+        "Nombre": "Vatican City",
+        "Población": 451,
+        "Área (km²)": 0.44,
+        "Densidad (hab/km²)": 1025.0,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Italian, Latin",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Bhutan",
+        "Población": 771612,
+        "Área (km²)": 38394.0,
+        "Densidad (hab/km²)": 20.1,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Dzongkha",
+        "Monedas": "BTN (Bhutanese ngultrum), INR (Indian rupee)"
+    },
+    {
+        "Nombre": "Colombia",
+        "Población": 50882884,
+        "Área (km²)": 1141748.0,
+        "Densidad (hab/km²)": 44.57,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Spanish",
+        "Monedas": "COP (Colombian peso)"
+    },
+    {
+        "Nombre": "Grenada",
+        "Población": 112519,
+        "Área (km²)": 344.0,
+        "Densidad (hab/km²)": 327.09,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Northern Mariana Islands",
+        "Población": 57557,
+        "Área (km²)": 464.0,
+        "Densidad (hab/km²)": 124.05,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "Carolinian, Chamorro, English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Papua New Guinea",
+        "Población": 8947027,
+        "Área (km²)": 462840.0,
+        "Densidad (hab/km²)": 19.33,
+        "Región": "Oceania",
+        "Subregión": "Melanesia",
+        "Idiomas": "English, Hiri Motu, Tok Pisin",
+        "Monedas": "PGK (Papua New Guinean kina)"
+    },
+    {
+        "Nombre": "Antarctica",
+        "Población": 1000,
+        "Área (km²)": 14000000.0,
+        "Densidad (hab/km²)": 0.0,
+        "Región": "Antarctic",
+        "Subregión": "N/A",
+        "Idiomas": "N/A",
+        "Monedas": "N/A"
+    },
+    {
+        "Nombre": "South Africa",
+        "Población": 59308690,
+        "Área (km²)": 1221037.0,
+        "Densidad (hab/km²)": 48.57,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",
+        "Monedas": "ZAR (South African rand)"
+    },
+    {
+        "Nombre": "Guinea",
+        "Población": 13132792,
+        "Área (km²)": 245857.0,
+        "Densidad (hab/km²)": 53.42,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "GNF (Guinean franc)"
+    },
+    {
+        "Nombre": "Hong Kong",
+        "Población": 7500700,
+        "Área (km²)": 1104.0,
+        "Densidad (hab/km²)": 6794.11,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "English, Chinese",
+        "Monedas": "HKD (Hong Kong dollar)"
+    },
+    {
+        "Nombre": "Chad",
+        "Población": 16425859,
+        "Área (km²)": 1284000.0,
+        "Densidad (hab/km²)": 12.79,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "Arabic, French",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Saint Helena, Ascension and Tristan da Cunha",
+        "Población": 53192,
+        "Área (km²)": 394.0,
+        "Densidad (hab/km²)": 135.01,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "GBP (Pound sterling), SHP (Saint Helena pound)"
+    },
+    {
+        "Nombre": "Honduras",
+        "Población": 9904608,
+        "Área (km²)": 112492.0,
+        "Densidad (hab/km²)": 88.05,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "HNL (Honduran lempira)"
+    },
+    {
+        "Nombre": "Montenegro",
+        "Población": 621718,
+        "Área (km²)": 13812.0,
+        "Densidad (hab/km²)": 45.01,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Montenegrin",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Morocco",
+        "Población": 36910558,
+        "Área (km²)": 446550.0,
+        "Densidad (hab/km²)": 82.66,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic, Berber",
+        "Monedas": "MAD (Moroccan dirham)"
+    },
+    {
+        "Nombre": "Nicaragua",
+        "Población": 6624554,
+        "Área (km²)": 130373.0,
+        "Densidad (hab/km²)": 50.81,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "NIO (Nicaraguan córdoba)"
+    },
+    {
+        "Nombre": "Cayman Islands",
+        "Población": 65720,
+        "Área (km²)": 264.0,
+        "Densidad (hab/km²)": 248.94,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "KYD (Cayman Islands dollar)"
+    },
+    {
+        "Nombre": "Luxembourg",
+        "Población": 632275,
+        "Área (km²)": 2586.0,
+        "Densidad (hab/km²)": 244.5,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "German, French, Luxembourgish",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Guyana",
+        "Población": 786559,
+        "Área (km²)": 214969.0,
+        "Densidad (hab/km²)": 3.66,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "English",
+        "Monedas": "GYD (Guyanese dollar)"
+    },
+    {
+        "Nombre": "Bulgaria",
+        "Población": 6927288,
+        "Área (km²)": 110879.0,
+        "Densidad (hab/km²)": 62.48,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Bulgarian",
+        "Monedas": "BGN (Bulgarian lev)"
+    },
+    {
+        "Nombre": "Ghana",
+        "Población": 31072945,
+        "Área (km²)": 238533.0,
+        "Densidad (hab/km²)": 130.27,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "GHS (Ghanaian cedi)"
+    },
+    {
+        "Nombre": "Finland",
+        "Población": 5530719,
+        "Área (km²)": 338424.0,
+        "Densidad (hab/km²)": 16.34,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Finnish, Swedish",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Seychelles",
+        "Población": 98462,
+        "Área (km²)": 452.0,
+        "Densidad (hab/km²)": 217.84,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Seychellois Creole, English, French",
+        "Monedas": "SCR (Seychellois rupee)"
+    },
+    {
+        "Nombre": "United States Virgin Islands",
+        "Población": 106290,
+        "Área (km²)": 347.0,
+        "Densidad (hab/km²)": 306.31,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Ethiopia",
+        "Población": 114963583,
+        "Área (km²)": 1104300.0,
+        "Densidad (hab/km²)": 104.11,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Amharic",
+        "Monedas": "ETB (Ethiopian birr)"
+    },
+    {
+        "Nombre": "Mauritania",
+        "Población": 4649660,
+        "Área (km²)": 1030700.0,
+        "Densidad (hab/km²)": 4.51,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "Arabic",
+        "Monedas": "MRU (Mauritanian ouguiya)"
+    },
+    {
+        "Nombre": "Iceland",
+        "Población": 366425,
+        "Área (km²)": 103000.0,
+        "Densidad (hab/km²)": 3.56,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Icelandic",
+        "Monedas": "ISK (Icelandic króna)"
+    },
+    {
+        "Nombre": "Réunion",
+        "Población": 840974,
+        "Área (km²)": 2511.0,
+        "Densidad (hab/km²)": 334.92,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Tajikistan",
+        "Población": 9537642,
+        "Área (km²)": 143100.0,
+        "Densidad (hab/km²)": 66.65,
+        "Región": "Asia",
+        "Subregión": "Central Asia",
+        "Idiomas": "Russian, Tajik",
+        "Monedas": "TJS (Tajikistani somoni)"
+    },
+    {
+        "Nombre": "Cuba",
+        "Población": 11326616,
+        "Área (km²)": 109884.0,
+        "Densidad (hab/km²)": 103.08,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "Spanish",
+        "Monedas": "CUC (Cuban convertible peso), CUP (Cuban peso)"
+    },
+    {
+        "Nombre": "Somalia",
+        "Población": 15893219,
+        "Área (km²)": 637657.0,
+        "Densidad (hab/km²)": 24.92,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Arabic, Somali",
+        "Monedas": "SOS (Somali shilling)"
+    },
+    {
+        "Nombre": "Switzerland",
+        "Población": 8654622,
+        "Área (km²)": 41284.0,
+        "Densidad (hab/km²)": 209.64,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "French, Swiss German, Italian, Romansh",
+        "Monedas": "CHF (Swiss franc)"
+    },
+    {
+        "Nombre": "Christmas Island",
+        "Población": 2072,
+        "Área (km²)": 135.0,
+        "Densidad (hab/km²)": 15.35,
+        "Región": "Oceania",
+        "Subregión": "Australia and New Zealand",
+        "Idiomas": "English",
+        "Monedas": "AUD (Australian dollar)"
+    },
+    {
+        "Nombre": "Martinique",
+        "Población": 378243,
+        "Área (km²)": 1128.0,
+        "Densidad (hab/km²)": 335.32,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Australia",
+        "Población": 25687041,
+        "Área (km²)": 7692024.0,
+        "Densidad (hab/km²)": 3.34,
+        "Región": "Oceania",
+        "Subregión": "Australia and New Zealand",
+        "Idiomas": "English",
+        "Monedas": "AUD (Australian dollar)"
+    },
+    {
+        "Nombre": "Benin",
+        "Población": 12123198,
+        "Área (km²)": 112622.0,
+        "Densidad (hab/km²)": 107.65,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Laos",
+        "Población": 7275556,
+        "Área (km²)": 236800.0,
+        "Densidad (hab/km²)": 30.72,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Lao",
+        "Monedas": "LAK (Lao kip)"
+    },
+    {
+        "Nombre": "Sudan",
+        "Población": 43849269,
+        "Área (km²)": 1886068.0,
+        "Densidad (hab/km²)": 23.25,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic, English",
+        "Monedas": "SDG (Sudanese pound)"
+    },
+    {
+        "Nombre": "Libya",
+        "Población": 6871287,
+        "Área (km²)": 1759540.0,
+        "Densidad (hab/km²)": 3.91,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic",
+        "Monedas": "LYD (Libyan dinar)"
+    },
+    {
+        "Nombre": "Mali",
+        "Población": 20250834,
+        "Área (km²)": 1240192.0,
+        "Densidad (hab/km²)": 16.33,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Peru",
+        "Población": 32971846,
+        "Área (km²)": 1285216.0,
+        "Densidad (hab/km²)": 25.65,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Aymara, Quechua, Spanish",
+        "Monedas": "PEN (Peruvian sol)"
+    },
+    {
+        "Nombre": "Hungary",
+        "Población": 9749763,
+        "Área (km²)": 93028.0,
+        "Densidad (hab/km²)": 104.8,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "Hungarian",
+        "Monedas": "HUF (Hungarian forint)"
+    },
+    {
+        "Nombre": "Bermuda",
+        "Población": 63903,
+        "Área (km²)": 54.0,
+        "Densidad (hab/km²)": 1183.39,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "English",
+        "Monedas": "BMD (Bermudian dollar)"
+    },
+    {
+        "Nombre": "Fiji",
+        "Población": 896444,
+        "Área (km²)": 18272.0,
+        "Densidad (hab/km²)": 49.06,
+        "Región": "Oceania",
+        "Subregión": "Melanesia",
+        "Idiomas": "English, Fijian, Fiji Hindi",
+        "Monedas": "FJD (Fijian dollar)"
+    },
+    {
+        "Nombre": "Netherlands",
+        "Población": 16655799,
+        "Área (km²)": 41850.0,
+        "Densidad (hab/km²)": 397.99,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "Dutch",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Nigeria",
+        "Población": 206139587,
+        "Área (km²)": 923768.0,
+        "Densidad (hab/km²)": 223.15,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "NGN (Nigerian naira)"
+    },
+    {
+        "Nombre": "Portugal",
+        "Población": 10305564,
+        "Área (km²)": 92090.0,
+        "Densidad (hab/km²)": 111.91,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Portuguese",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "India",
+        "Población": 1380004385,
+        "Área (km²)": 3287590.0,
+        "Densidad (hab/km²)": 419.76,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "English, Hindi, Tamil",
+        "Monedas": "INR (Indian rupee)"
+    },
+    {
+        "Nombre": "South Georgia",
+        "Población": 30,
+        "Área (km²)": 3903.0,
+        "Densidad (hab/km²)": 0.01,
+        "Región": "Antarctic",
+        "Subregión": "N/A",
+        "Idiomas": "English",
+        "Monedas": "GBP (British pound)"
+    },
+    {
+        "Nombre": "Lesotho",
+        "Población": 2142252,
+        "Área (km²)": 30355.0,
+        "Densidad (hab/km²)": 70.57,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "English, Sotho",
+        "Monedas": "LSL (Lesotho loti), ZAR (South African rand)"
+    },
+    {
+        "Nombre": "Zambia",
+        "Población": 18383956,
+        "Área (km²)": 752612.0,
+        "Densidad (hab/km²)": 24.43,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English",
+        "Monedas": "ZMW (Zambian kwacha)"
+    },
+    {
+        "Nombre": "Tokelau",
+        "Población": 1411,
+        "Área (km²)": 12.0,
+        "Densidad (hab/km²)": 117.58,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Samoan, Tokelauan",
+        "Monedas": "NZD (New Zealand dollar)"
+    },
+    {
+        "Nombre": "Gambia",
+        "Población": 2416664,
+        "Área (km²)": 10689.0,
+        "Densidad (hab/km²)": 226.09,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "GMD (dalasi)"
+    },
+    {
+        "Nombre": "Sierra Leone",
+        "Población": 7976985,
+        "Área (km²)": 71740.0,
+        "Densidad (hab/km²)": 111.19,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "SLE (Leone)"
+    },
+    {
+        "Nombre": "Kiribati",
+        "Población": 119446,
+        "Área (km²)": 811.0,
+        "Densidad (hab/km²)": 147.28,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "English, Gilbertese",
+        "Monedas": "AUD (Australian dollar), KID (Kiribati dollar)"
+    },
+    {
+        "Nombre": "Norway",
+        "Población": 5379475,
+        "Área (km²)": 323802.0,
+        "Densidad (hab/km²)": 16.61,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Norwegian Nynorsk, Norwegian Bokmål, Sami",
+        "Monedas": "NOK (Norwegian krone)"
+    },
+    {
+        "Nombre": "Ireland",
+        "Población": 4994724,
+        "Área (km²)": 70273.0,
+        "Densidad (hab/km²)": 71.08,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "English, Irish",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Greenland",
+        "Población": 56367,
+        "Área (km²)": 2166086.0,
+        "Densidad (hab/km²)": 0.03,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "Greenlandic",
+        "Monedas": "DKK (krone)"
+    },
+    {
+        "Nombre": "British Indian Ocean Territory",
+        "Población": 3000,
+        "Área (km²)": 60.0,
+        "Densidad (hab/km²)": 50.0,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Mozambique",
+        "Población": 31255435,
+        "Área (km²)": 801590.0,
+        "Densidad (hab/km²)": 38.99,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Portuguese",
+        "Monedas": "MZN (Mozambican metical)"
+    },
+    {
+        "Nombre": "Panama",
+        "Población": 4314768,
+        "Área (km²)": 75417.0,
+        "Densidad (hab/km²)": 57.21,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "PAB (Panamanian balboa), USD (United States dollar)"
+    },
+    {
+        "Nombre": "Ukraine",
+        "Población": 44134693,
+        "Área (km²)": 603500.0,
+        "Densidad (hab/km²)": 73.13,
+        "Región": "Europe",
+        "Subregión": "Eastern Europe",
+        "Idiomas": "Ukrainian",
+        "Monedas": "UAH (Ukrainian hryvnia)"
+    },
+    {
+        "Nombre": "Uruguay",
+        "Población": 3473727,
+        "Área (km²)": 181034.0,
+        "Densidad (hab/km²)": 19.19,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Spanish",
+        "Monedas": "UYU (Uruguayan peso)"
+    },
+    {
+        "Nombre": "Aruba",
+        "Población": 106766,
+        "Área (km²)": 180.0,
+        "Densidad (hab/km²)": 593.14,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "Dutch, Papiamento",
+        "Monedas": "AWG (Aruban florin)"
+    },
+    {
+        "Nombre": "Iran",
+        "Población": 83992953,
+        "Área (km²)": 1648195.0,
+        "Densidad (hab/km²)": 50.96,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Persian (Farsi)",
+        "Monedas": "IRR (Iranian rial)"
+    },
+    {
+        "Nombre": "Isle of Man",
+        "Población": 85032,
+        "Área (km²)": 572.0,
+        "Densidad (hab/km²)": 148.66,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "English, Manx",
+        "Monedas": "GBP (British pound), IMP (Manx pound)"
+    },
+    {
+        "Nombre": "Åland Islands",
+        "Población": 29458,
+        "Área (km²)": 1580.0,
+        "Densidad (hab/km²)": 18.64,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Swedish",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Saudi Arabia",
+        "Población": 34813867,
+        "Área (km²)": 2149690.0,
+        "Densidad (hab/km²)": 16.19,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "SAR (Saudi riyal)"
+    },
+    {
+        "Nombre": "Djibouti",
+        "Población": 988002,
+        "Área (km²)": 23200.0,
+        "Densidad (hab/km²)": 42.59,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Arabic, French",
+        "Monedas": "DJF (Djiboutian franc)"
+    },
+    {
+        "Nombre": "Italy",
+        "Población": 59554023,
+        "Área (km²)": 301336.0,
+        "Densidad (hab/km²)": 197.63,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Italian, Catalan",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Canada",
+        "Población": 38005238,
+        "Área (km²)": 9984670.0,
+        "Densidad (hab/km²)": 3.81,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "English, French",
+        "Monedas": "CAD (Canadian dollar)"
+    },
+    {
+        "Nombre": "Jamaica",
+        "Población": 2961161,
+        "Área (km²)": 10991.0,
+        "Densidad (hab/km²)": 269.42,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English, Jamaican Patois",
+        "Monedas": "JMD (Jamaican dollar)"
+    },
+    {
+        "Nombre": "Niger",
+        "Población": 24206636,
+        "Área (km²)": 1267000.0,
+        "Densidad (hab/km²)": 19.11,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Afghanistan",
+        "Población": 40218234,
+        "Área (km²)": 652230.0,
+        "Densidad (hab/km²)": 61.66,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Dari, Pashto, Turkmen",
+        "Monedas": "AFN (Afghan afghani)"
+    },
+    {
+        "Nombre": "Croatia",
+        "Población": 4047200,
+        "Área (km²)": 56594.0,
+        "Densidad (hab/km²)": 71.51,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Croatian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Latvia",
+        "Población": 1901548,
+        "Área (km²)": 64559.0,
+        "Densidad (hab/km²)": 29.45,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Latvian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Samoa",
+        "Población": 198410,
+        "Área (km²)": 2842.0,
+        "Densidad (hab/km²)": 69.81,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Samoan",
+        "Monedas": "WST (Samoan tālā)"
+    },
+    {
+        "Nombre": "Curaçao",
+        "Población": 155014,
+        "Área (km²)": 444.0,
+        "Densidad (hab/km²)": 349.13,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English, Dutch, Papiamento",
+        "Monedas": "ANG (Netherlands Antillean guilder)"
+    },
+    {
+        "Nombre": "Cyprus",
+        "Población": 1207361,
+        "Área (km²)": 9251.0,
+        "Densidad (hab/km²)": 130.51,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Greek, Turkish",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Madagascar",
+        "Población": 27691019,
+        "Área (km²)": 587041.0,
+        "Densidad (hab/km²)": 47.17,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "French, Malagasy",
+        "Monedas": "MGA (Malagasy ariary)"
+    },
+    {
+        "Nombre": "Uzbekistan",
+        "Población": 34232050,
+        "Área (km²)": 447400.0,
+        "Densidad (hab/km²)": 76.51,
+        "Región": "Asia",
+        "Subregión": "Central Asia",
+        "Idiomas": "Russian, Uzbek",
+        "Monedas": "UZS (Uzbekistani soʻm)"
+    },
+    {
+        "Nombre": "Macau",
+        "Población": 649342,
+        "Área (km²)": 30.0,
+        "Densidad (hab/km²)": 21644.73,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Portuguese, Chinese",
+        "Monedas": "MOP (Macanese pataca)"
+    },
+    {
+        "Nombre": "Micronesia",
+        "Población": 115021,
+        "Área (km²)": 702.0,
+        "Densidad (hab/km²)": 163.85,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Maldives",
+        "Población": 540542,
+        "Área (km²)": 300.0,
+        "Densidad (hab/km²)": 1801.81,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Maldivian",
+        "Monedas": "MVR (Maldivian rufiyaa)"
+    },
+    {
+        "Nombre": "Slovenia",
+        "Población": 2100126,
+        "Área (km²)": 20273.0,
+        "Densidad (hab/km²)": 103.59,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "Slovene",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Andorra",
+        "Población": 77265,
+        "Área (km²)": 468.0,
+        "Densidad (hab/km²)": 165.1,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Catalan",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Eritrea",
+        "Población": 5352000,
+        "Área (km²)": 117600.0,
+        "Densidad (hab/km²)": 45.51,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Arabic, English, Tigrinya",
+        "Monedas": "ERN (Eritrean nakfa)"
+    },
+    {
+        "Nombre": "Guinea-Bissau",
+        "Población": 1967998,
+        "Área (km²)": 36125.0,
+        "Densidad (hab/km²)": 54.48,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "Portuguese, Upper Guinea Creole",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Kuwait",
+        "Población": 4270563,
+        "Área (km²)": 17818.0,
+        "Densidad (hab/km²)": 239.68,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "KWD (Kuwaiti dinar)"
+    },
+    {
+        "Nombre": "Gabon",
+        "Población": 2225728,
+        "Área (km²)": 267668.0,
+        "Densidad (hab/km²)": 8.32,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "French",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Yemen",
+        "Población": 29825968,
+        "Área (km²)": 527968.0,
+        "Densidad (hab/km²)": 56.49,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "YER (Yemeni rial)"
+    },
+    {
+        "Nombre": "Cocos (Keeling) Islands",
+        "Población": 544,
+        "Área (km²)": 14.0,
+        "Densidad (hab/km²)": 38.86,
+        "Región": "Oceania",
+        "Subregión": "Australia and New Zealand",
+        "Idiomas": "English",
+        "Monedas": "AUD (Australian dollar)"
+    },
+    {
+        "Nombre": "Timor-Leste",
+        "Población": 1318442,
+        "Área (km²)": 14874.0,
+        "Densidad (hab/km²)": 88.64,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Portuguese, Tetum",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Slovakia",
+        "Población": 5458827,
+        "Área (km²)": 49037.0,
+        "Densidad (hab/km²)": 111.32,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "Slovak",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Rwanda",
+        "Población": 12952209,
+        "Área (km²)": 26338.0,
+        "Densidad (hab/km²)": 491.77,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, French, Kinyarwanda",
+        "Monedas": "RWF (Rwandan franc)"
+    },
+    {
+        "Nombre": "Antigua and Barbuda",
+        "Población": 97928,
+        "Área (km²)": 442.0,
+        "Densidad (hab/km²)": 221.56,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Togo",
+        "Población": 8278737,
+        "Área (km²)": 56785.0,
+        "Densidad (hab/km²)": 145.79,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Syria",
+        "Población": 17500657,
+        "Área (km²)": 185180.0,
+        "Densidad (hab/km²)": 94.51,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "SYP (Syrian pound)"
+    },
+    {
+        "Nombre": "Guadeloupe",
+        "Población": 400132,
+        "Área (km²)": 1628.0,
+        "Densidad (hab/km²)": 245.78,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Turkmenistan",
+        "Población": 6031187,
+        "Área (km²)": 488100.0,
+        "Densidad (hab/km²)": 12.36,
+        "Región": "Asia",
+        "Subregión": "Central Asia",
+        "Idiomas": "Russian, Turkmen",
+        "Monedas": "TMT (Turkmenistan manat)"
+    },
+    {
+        "Nombre": "Sri Lanka",
+        "Población": 21919000,
+        "Área (km²)": 65610.0,
+        "Densidad (hab/km²)": 334.08,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Sinhala, Tamil",
+        "Monedas": "LKR (Sri Lankan rupee)"
+    },
+    {
+        "Nombre": "United States",
+        "Población": 329484123,
+        "Área (km²)": 9372610.0,
+        "Densidad (hab/km²)": 35.15,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Argentina",
+        "Población": 45376763,
+        "Área (km²)": 2780400.0,
+        "Densidad (hab/km²)": 16.32,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Guaraní, Spanish",
+        "Monedas": "ARS (Argentine peso)"
+    },
+    {
+        "Nombre": "South Sudan",
+        "Población": 11193729,
+        "Área (km²)": 619745.0,
+        "Densidad (hab/km²)": 18.06,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "English",
+        "Monedas": "SSP (South Sudanese pound)"
+    },
+    {
+        "Nombre": "Palestine",
+        "Población": 4803269,
+        "Área (km²)": 6220.0,
+        "Densidad (hab/km²)": 772.23,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "EGP (Egyptian pound), ILS (Israeli new shekel), JOD (Jordanian dinar)"
+    },
+    {
+        "Nombre": "Georgia",
+        "Población": 3714000,
+        "Área (km²)": 69700.0,
+        "Densidad (hab/km²)": 53.29,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Georgian",
+        "Monedas": "GEL (lari)"
+    },
+    {
+        "Nombre": "Japan",
+        "Población": 125836021,
+        "Área (km²)": 377930.0,
+        "Densidad (hab/km²)": 332.96,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Japanese",
+        "Monedas": "JPY (Japanese yen)"
+    },
+    {
+        "Nombre": "Sweden",
+        "Población": 10353442,
+        "Área (km²)": 450295.0,
+        "Densidad (hab/km²)": 22.99,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Swedish",
+        "Monedas": "SEK (Swedish krona)"
+    },
+    {
+        "Nombre": "Chile",
+        "Población": 19116209,
+        "Área (km²)": 756102.0,
+        "Densidad (hab/km²)": 25.28,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Spanish",
+        "Monedas": "CLP (Chilean peso)"
+    },
+    {
+        "Nombre": "Saint Kitts and Nevis",
+        "Población": 53192,
+        "Área (km²)": 261.0,
+        "Densidad (hab/km²)": 203.8,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Denmark",
+        "Población": 5831404,
+        "Área (km²)": 43094.0,
+        "Densidad (hab/km²)": 135.32,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Danish",
+        "Monedas": "DKK (Danish krone)"
+    },
+    {
+        "Nombre": "United States Minor Outlying Islands",
+        "Población": 300,
+        "Área (km²)": 34.2,
+        "Densidad (hab/km²)": 8.77,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "American Samoa",
+        "Población": 55197,
+        "Área (km²)": 199.0,
+        "Densidad (hab/km²)": 277.37,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Samoan",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Anguilla",
+        "Población": 13452,
+        "Área (km²)": 91.0,
+        "Densidad (hab/km²)": 147.82,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Philippines",
+        "Población": 109581085,
+        "Área (km²)": 342353.0,
+        "Densidad (hab/km²)": 320.08,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "English, Filipino",
+        "Monedas": "PHP (Philippine peso)"
+    },
+    {
+        "Nombre": "Bolivia",
+        "Población": 11673029,
+        "Área (km²)": 1098581.0,
+        "Densidad (hab/km²)": 10.63,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Aymara, Guaraní, Quechua, Spanish",
+        "Monedas": "BOB (Bolivian boliviano)"
+    },
+    {
+        "Nombre": "São Tomé and Príncipe",
+        "Población": 219161,
+        "Área (km²)": 964.0,
+        "Densidad (hab/km²)": 227.35,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "Portuguese",
+        "Monedas": "STN (São Tomé and Príncipe dobra)"
+    },
+    {
+        "Nombre": "Montserrat",
+        "Población": 4922,
+        "Área (km²)": 102.0,
+        "Densidad (hab/km²)": 48.25,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Myanmar",
+        "Población": 54409794,
+        "Área (km²)": 676578.0,
+        "Densidad (hab/km²)": 80.42,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Burmese",
+        "Monedas": "MMK (Burmese kyat)"
+    },
+    {
+        "Nombre": "Niue",
+        "Población": 1470,
+        "Área (km²)": 260.0,
+        "Densidad (hab/km²)": 5.65,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Niuean",
+        "Monedas": "NZD (New Zealand dollar)"
+    },
+    {
+        "Nombre": "Israel",
+        "Población": 9216900,
+        "Área (km²)": 20770.0,
+        "Densidad (hab/km²)": 443.76,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic, Hebrew",
+        "Monedas": "ILS (Israeli new shekel)"
+    },
+    {
+        "Nombre": "Heard Island and McDonald Islands",
+        "Población": 0,
+        "Área (km²)": 412.0,
+        "Densidad (hab/km²)": 0.0,
+        "Región": "Antarctic",
+        "Subregión": "N/A",
+        "Idiomas": "English",
+        "Monedas": "N/A"
+    },
+    {
+        "Nombre": "Comoros",
+        "Población": 869595,
+        "Área (km²)": 1862.0,
+        "Densidad (hab/km²)": 467.02,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "Arabic, French, Comorian",
+        "Monedas": "KMF (Comorian franc)"
+    },
+    {
+        "Nombre": "Saint Vincent and the Grenadines",
+        "Población": 110947,
+        "Área (km²)": 389.0,
+        "Densidad (hab/km²)": 285.21,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Vietnam",
+        "Población": 97338583,
+        "Área (km²)": 331212.0,
+        "Densidad (hab/km²)": 293.89,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Vietnamese",
+        "Monedas": "VND (Vietnamese đồng)"
+    },
+    {
+        "Nombre": "Caribbean Netherlands",
+        "Población": 25987,
+        "Área (km²)": 328.0,
+        "Densidad (hab/km²)": 79.23,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English, Dutch, Papiamento",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Jersey",
+        "Población": 100800,
+        "Área (km²)": 116.0,
+        "Densidad (hab/km²)": 868.97,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "English, French, Jèrriais",
+        "Monedas": "GBP (British pound), JEP (Jersey pound)"
+    },
+    {
+        "Nombre": "Falkland Islands",
+        "Población": 2563,
+        "Área (km²)": 12173.0,
+        "Densidad (hab/km²)": 0.21,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "English",
+        "Monedas": "FKP (Falkland Islands pound)"
+    },
+    {
+        "Nombre": "Armenia",
+        "Población": 2963234,
+        "Área (km²)": 29743.0,
+        "Densidad (hab/km²)": 99.63,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Armenian",
+        "Monedas": "AMD (Armenian dram)"
+    },
+    {
+        "Nombre": "Kosovo",
+        "Población": 1775378,
+        "Área (km²)": 10908.0,
+        "Densidad (hab/km²)": 162.76,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Albanian, Serbian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Bouvet Island",
+        "Población": 0,
+        "Área (km²)": 49.0,
+        "Densidad (hab/km²)": 0.0,
+        "Región": "Antarctic",
+        "Subregión": "N/A",
+        "Idiomas": "Norwegian",
+        "Monedas": "N/A"
+    },
+    {
+        "Nombre": "Venezuela",
+        "Población": 28435943,
+        "Área (km²)": 916445.0,
+        "Densidad (hab/km²)": 31.03,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Spanish",
+        "Monedas": "VES (Venezuelan bolívar soberano)"
+    },
+    {
+        "Nombre": "Belgium",
+        "Población": 11555997,
+        "Área (km²)": 30528.0,
+        "Densidad (hab/km²)": 378.54,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "German, French, Dutch",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Burkina Faso",
+        "Población": 20903278,
+        "Área (km²)": 272967.0,
+        "Densidad (hab/km²)": 76.58,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "French",
+        "Monedas": "XOF (West African CFA franc)"
+    },
+    {
+        "Nombre": "Algeria",
+        "Población": 44700000,
+        "Área (km²)": 2381741.0,
+        "Densidad (hab/km²)": 18.77,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Arabic",
+        "Monedas": "DZD (Algerian dinar)"
+    },
+    {
+        "Nombre": "France",
+        "Población": 67391582,
+        "Área (km²)": 551695.0,
+        "Densidad (hab/km²)": 122.15,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Saint Pierre and Miquelon",
+        "Población": 6069,
+        "Área (km²)": 242.0,
+        "Densidad (hab/km²)": 25.08,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Pakistan",
+        "Población": 220892331,
+        "Área (km²)": 881912.0,
+        "Densidad (hab/km²)": 250.47,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "English, Urdu",
+        "Monedas": "PKR (Pakistani rupee)"
+    },
+    {
+        "Nombre": "El Salvador",
+        "Población": 6486201,
+        "Área (km²)": 21041.0,
+        "Densidad (hab/km²)": 308.26,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Spanish",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "North Macedonia",
+        "Población": 2077132,
+        "Área (km²)": 25713.0,
+        "Densidad (hab/km²)": 80.78,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Macedonian",
+        "Monedas": "MKD (denar)"
+    },
+    {
+        "Nombre": "Brunei",
+        "Población": 437483,
+        "Área (km²)": 5765.0,
+        "Densidad (hab/km²)": 75.89,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Malay",
+        "Monedas": "BND (Brunei dollar), SGD (Singapore dollar)"
+    },
+    {
+        "Nombre": "Central African Republic",
+        "Población": 4829764,
+        "Área (km²)": 622984.0,
+        "Densidad (hab/km²)": 7.75,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "French, Sango",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Uganda",
+        "Población": 45741000,
+        "Área (km²)": 241550.0,
+        "Densidad (hab/km²)": 189.36,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, Swahili",
+        "Monedas": "UGX (Ugandan shilling)"
+    },
+    {
+        "Nombre": "Wallis and Futuna",
+        "Población": 11750,
+        "Área (km²)": 142.0,
+        "Densidad (hab/km²)": 82.75,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "French",
+        "Monedas": "XPF (CFP franc)"
+    },
+    {
+        "Nombre": "Germany",
+        "Población": 83240525,
+        "Área (km²)": 357114.0,
+        "Densidad (hab/km²)": 233.09,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "German",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Taiwan",
+        "Población": 23503349,
+        "Área (km²)": 36193.0,
+        "Densidad (hab/km²)": 649.39,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Chinese",
+        "Monedas": "TWD (New Taiwan dollar)"
+    },
+    {
+        "Nombre": "United Arab Emirates",
+        "Población": 9890400,
+        "Área (km²)": 83600.0,
+        "Densidad (hab/km²)": 118.31,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "AED (United Arab Emirates dirham)"
+    },
+    {
+        "Nombre": "Namibia",
+        "Población": 2540916,
+        "Área (km²)": 825615.0,
+        "Densidad (hab/km²)": 3.08,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana",
+        "Monedas": "NAD (Namibian dollar), ZAR (South African rand)"
+    },
+    {
+        "Nombre": "Monaco",
+        "Población": 39244,
+        "Área (km²)": 2.02,
+        "Densidad (hab/km²)": 19427.72,
+        "Región": "Europe",
+        "Subregión": "Western Europe",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Malawi",
+        "Población": 19129955,
+        "Área (km²)": 118484.0,
+        "Densidad (hab/km²)": 161.46,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, Chewa",
+        "Monedas": "MWK (Malawian kwacha)"
+    },
+    {
+        "Nombre": "Azerbaijan",
+        "Población": 10110116,
+        "Área (km²)": 86600.0,
+        "Densidad (hab/km²)": 116.74,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Azerbaijani",
+        "Monedas": "AZN (Azerbaijani manat)"
+    },
+    {
+        "Nombre": "Mexico",
+        "Población": 128932753,
+        "Área (km²)": 1964375.0,
+        "Densidad (hab/km²)": 65.64,
+        "Región": "Americas",
+        "Subregión": "North America",
+        "Idiomas": "Spanish",
+        "Monedas": "MXN (Mexican peso)"
+    },
+    {
+        "Nombre": "Iraq",
+        "Población": 40222503,
+        "Área (km²)": 438317.0,
+        "Densidad (hab/km²)": 91.77,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic, Aramaic, Sorani",
+        "Monedas": "IQD (Iraqi dinar)"
+    },
+    {
+        "Nombre": "Cambodia",
+        "Población": 16718971,
+        "Área (km²)": 181035.0,
+        "Densidad (hab/km²)": 92.35,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Khmer",
+        "Monedas": "KHR (Cambodian riel), USD (United States dollar)"
+    },
+    {
+        "Nombre": "Tuvalu",
+        "Población": 11792,
+        "Área (km²)": 26.0,
+        "Densidad (hab/km²)": 453.54,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Tuvaluan",
+        "Monedas": "AUD (Australian dollar), TVD (Tuvaluan dollar)"
+    },
+    {
+        "Nombre": "Cook Islands",
+        "Población": 18100,
+        "Área (km²)": 236.0,
+        "Densidad (hab/km²)": 76.69,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English, Cook Islands Māori",
+        "Monedas": "CKD (Cook Islands dollar), NZD (New Zealand dollar)"
+    },
+    {
+        "Nombre": "Haiti",
+        "Población": 11402533,
+        "Área (km²)": 27750.0,
+        "Densidad (hab/km²)": 410.9,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "French, Haitian Creole",
+        "Monedas": "HTG (Haitian gourde)"
+    },
+    {
+        "Nombre": "Belize",
+        "Población": 397621,
+        "Área (km²)": 22966.0,
+        "Densidad (hab/km²)": 17.31,
+        "Región": "Americas",
+        "Subregión": "Central America",
+        "Idiomas": "Belizean Creole, English, Spanish",
+        "Monedas": "BZD (Belize dollar)"
+    },
+    {
+        "Nombre": "French Guiana",
+        "Población": 254541,
+        "Área (km²)": 83534.0,
+        "Densidad (hab/km²)": 3.05,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "DR Congo",
+        "Población": 108407721,
+        "Área (km²)": 2344858.0,
+        "Densidad (hab/km²)": 46.23,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "French, Kikongo, Lingala, Tshiluba, Swahili",
+        "Monedas": "CDF (Congolese franc)"
+    },
+    {
+        "Nombre": "Equatorial Guinea",
+        "Población": 1402985,
+        "Área (km²)": 28051.0,
+        "Densidad (hab/km²)": 50.02,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "French, Portuguese, Spanish",
+        "Monedas": "XAF (Central African CFA franc)"
+    },
+    {
+        "Nombre": "Mauritius",
+        "Población": 1265740,
+        "Área (km²)": 2040.0,
+        "Densidad (hab/km²)": 620.46,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "English, French, Mauritian Creole",
+        "Monedas": "MUR (Mauritian rupee)"
+    },
+    {
+        "Nombre": "Austria",
+        "Población": 8917205,
+        "Área (km²)": 83871.0,
+        "Densidad (hab/km²)": 106.32,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "German",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Spain",
+        "Población": 47351567,
+        "Área (km²)": 505992.0,
+        "Densidad (hab/km²)": 93.58,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Spanish, Catalan, Basque, Galician",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Russia",
+        "Población": 144104080,
+        "Área (km²)": 17098242.0,
+        "Densidad (hab/km²)": 8.43,
+        "Región": "Europe",
+        "Subregión": "Eastern Europe",
+        "Idiomas": "Russian",
+        "Monedas": "RUB (Russian ruble)"
+    },
+    {
+        "Nombre": "Zimbabwe",
+        "Población": 14862927,
+        "Área (km²)": 390757.0,
+        "Densidad (hab/km²)": 38.04,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language",
+        "Monedas": "ZWL (Zimbabwean dollar)"
+    },
+    {
+        "Nombre": "Singapore",
+        "Población": 5685807,
+        "Área (km²)": 710.0,
+        "Densidad (hab/km²)": 8008.18,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "English, Chinese, Malay, Tamil",
+        "Monedas": "SGD (Singapore dollar)"
+    },
+    {
+        "Nombre": "Czechia",
+        "Población": 10698896,
+        "Área (km²)": 78865.0,
+        "Densidad (hab/km²)": 135.66,
+        "Región": "Europe",
+        "Subregión": "Central Europe",
+        "Idiomas": "Czech, Slovak",
+        "Monedas": "CZK (Czech koruna)"
+    },
+    {
+        "Nombre": "Faroe Islands",
+        "Población": 48865,
+        "Área (km²)": 1393.0,
+        "Densidad (hab/km²)": 35.08,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Danish, Faroese",
+        "Monedas": "DKK (Danish krone), FOK (Faroese króna)"
+    },
+    {
+        "Nombre": "Oman",
+        "Población": 5106622,
+        "Área (km²)": 309500.0,
+        "Densidad (hab/km²)": 16.5,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Arabic",
+        "Monedas": "OMR (Omani rial)"
+    },
+    {
+        "Nombre": "French Southern and Antarctic Lands",
+        "Población": 400,
+        "Área (km²)": 7747.0,
+        "Densidad (hab/km²)": 0.05,
+        "Región": "Antarctic",
+        "Subregión": "N/A",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Burundi",
+        "Población": 11890781,
+        "Área (km²)": 27834.0,
+        "Densidad (hab/km²)": 427.2,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "French, Kirundi",
+        "Monedas": "BIF (Burundian franc)"
+    },
+    {
+        "Nombre": "Western Sahara",
+        "Población": 510713,
+        "Área (km²)": 266000.0,
+        "Densidad (hab/km²)": 1.92,
+        "Región": "Africa",
+        "Subregión": "Northern Africa",
+        "Idiomas": "Berber, Hassaniya, Spanish",
+        "Monedas": "DZD (Algerian dinar), MAD (Moroccan dirham), MRU (Mauritanian ouguiya)"
+    },
+    {
+        "Nombre": "Mayotte",
+        "Población": 226915,
+        "Área (km²)": 374.0,
+        "Densidad (hab/km²)": 606.72,
+        "Región": "Africa",
+        "Subregión": "Eastern Africa",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Puerto Rico",
+        "Población": 3194034,
+        "Área (km²)": 8870.0,
+        "Densidad (hab/km²)": 360.09,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English, Spanish",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "San Marino",
+        "Población": 33938,
+        "Área (km²)": 61.0,
+        "Densidad (hab/km²)": 556.36,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "Italian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Turks and Caicos Islands",
+        "Población": 38718,
+        "Área (km²)": 948.0,
+        "Densidad (hab/km²)": 40.84,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "USD (United States dollar)"
+    },
+    {
+        "Nombre": "Malta",
+        "Población": 525285,
+        "Área (km²)": 316.0,
+        "Densidad (hab/km²)": 1662.29,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "English, Maltese",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Nauru",
+        "Población": 10834,
+        "Área (km²)": 21.0,
+        "Densidad (hab/km²)": 515.9,
+        "Región": "Oceania",
+        "Subregión": "Micronesia",
+        "Idiomas": "English, Nauru",
+        "Monedas": "AUD (Australian dollar)"
+    },
+    {
+        "Nombre": "Saint Martin",
+        "Población": 38659,
+        "Área (km²)": 53.0,
+        "Densidad (hab/km²)": 729.42,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "French Polynesia",
+        "Población": 280904,
+        "Área (km²)": 4167.0,
+        "Densidad (hab/km²)": 67.41,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "French",
+        "Monedas": "XPF (CFP franc)"
+    },
+    {
+        "Nombre": "New Zealand",
+        "Población": 5084300,
+        "Área (km²)": 270467.0,
+        "Densidad (hab/km²)": 18.8,
+        "Región": "Oceania",
+        "Subregión": "Australia and New Zealand",
+        "Idiomas": "English, Māori, New Zealand Sign Language",
+        "Monedas": "NZD (New Zealand dollar)"
+    },
+    {
+        "Nombre": "Serbia",
+        "Población": 6908224,
+        "Área (km²)": 88361.0,
+        "Densidad (hab/km²)": 78.18,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Serbian",
+        "Monedas": "RSD (Serbian dinar)"
+    },
+    {
+        "Nombre": "Trinidad and Tobago",
+        "Población": 1399491,
+        "Área (km²)": 5130.0,
+        "Densidad (hab/km²)": 272.81,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "TTD (Trinidad and Tobago dollar)"
+    },
+    {
+        "Nombre": "Saint Barthélemy",
+        "Población": 4255,
+        "Área (km²)": 21.0,
+        "Densidad (hab/km²)": 202.62,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "French",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Pitcairn Islands",
+        "Población": 56,
+        "Área (km²)": 47.0,
+        "Densidad (hab/km²)": 1.19,
+        "Región": "Oceania",
+        "Subregión": "Polynesia",
+        "Idiomas": "English",
+        "Monedas": "NZD (New Zealand dollar)"
+    },
+    {
+        "Nombre": "Norfolk Island",
+        "Población": 2302,
+        "Área (km²)": 36.0,
+        "Densidad (hab/km²)": 63.94,
+        "Región": "Oceania",
+        "Subregión": "Australia and New Zealand",
+        "Idiomas": "English, Norfuk",
+        "Monedas": "AUD (Australian dollar)"
+    },
+    {
+        "Nombre": "Barbados",
+        "Población": 287371,
+        "Área (km²)": 430.0,
+        "Densidad (hab/km²)": 668.3,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "BBD (Barbadian dollar)"
+    },
+    {
+        "Nombre": "South Korea",
+        "Población": 51780579,
+        "Área (km²)": 100210.0,
+        "Densidad (hab/km²)": 516.72,
+        "Región": "Asia",
+        "Subregión": "Eastern Asia",
+        "Idiomas": "Korean",
+        "Monedas": "KRW (South Korean won)"
+    },
+    {
+        "Nombre": "Bangladesh",
+        "Población": 164689383,
+        "Área (km²)": 147570.0,
+        "Densidad (hab/km²)": 1116.01,
+        "Región": "Asia",
+        "Subregión": "Southern Asia",
+        "Idiomas": "Bengali",
+        "Monedas": "BDT (Bangladeshi taka)"
+    },
+    {
+        "Nombre": "Dominican Republic",
+        "Población": 10847904,
+        "Área (km²)": 48671.0,
+        "Densidad (hab/km²)": 222.88,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "Spanish",
+        "Monedas": "DOP (Dominican peso)"
+    },
+    {
+        "Nombre": "Turkey",
+        "Población": 84339067,
+        "Área (km²)": 783562.0,
+        "Densidad (hab/km²)": 107.64,
+        "Región": "Asia",
+        "Subregión": "Western Asia",
+        "Idiomas": "Turkish",
+        "Monedas": "TRY (Turkish lira)"
+    },
+    {
+        "Nombre": "Indonesia",
+        "Población": 273523621,
+        "Área (km²)": 1904569.0,
+        "Densidad (hab/km²)": 143.61,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Indonesian",
+        "Monedas": "IDR (Indonesian rupiah)"
+    },
+    {
+        "Nombre": "Liberia",
+        "Población": 5057677,
+        "Área (km²)": 111369.0,
+        "Densidad (hab/km²)": 45.41,
+        "Región": "Africa",
+        "Subregión": "Western Africa",
+        "Idiomas": "English",
+        "Monedas": "LRD (Liberian dollar)"
+    },
+    {
+        "Nombre": "Guernsey",
+        "Población": 62999,
+        "Área (km²)": 78.0,
+        "Densidad (hab/km²)": 807.68,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "English, French, Guernésiais",
+        "Monedas": "GBP (British pound), GGP (Guernsey pound)"
+    },
+    {
+        "Nombre": "Suriname",
+        "Población": 586634,
+        "Área (km²)": 163820.0,
+        "Densidad (hab/km²)": 3.58,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Dutch",
+        "Monedas": "SRD (Surinamese dollar)"
+    },
+    {
+        "Nombre": "Albania",
+        "Población": 2837743,
+        "Área (km²)": 28748.0,
+        "Densidad (hab/km²)": 98.71,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Albanian",
+        "Monedas": "ALL (Albanian lek)"
+    },
+    {
+        "Nombre": "Dominica",
+        "Población": 71991,
+        "Área (km²)": 751.0,
+        "Densidad (hab/km²)": 95.86,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    },
+    {
+        "Nombre": "Thailand",
+        "Población": 69799978,
+        "Área (km²)": 513120.0,
+        "Densidad (hab/km²)": 136.03,
+        "Región": "Asia",
+        "Subregión": "South-Eastern Asia",
+        "Idiomas": "Thai",
+        "Monedas": "THB (Thai baht)"
+    },
+    {
+        "Nombre": "United Kingdom",
+        "Población": 67215293,
+        "Área (km²)": 242900.0,
+        "Densidad (hab/km²)": 276.72,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "English",
+        "Monedas": "GBP (British pound)"
+    },
+    {
+        "Nombre": "New Caledonia",
+        "Población": 271960,
+        "Área (km²)": 18575.0,
+        "Densidad (hab/km²)": 14.64,
+        "Región": "Oceania",
+        "Subregión": "Melanesia",
+        "Idiomas": "French",
+        "Monedas": "XPF (CFP franc)"
+    },
+    {
+        "Nombre": "Romania",
+        "Población": 19286123,
+        "Área (km²)": 238391.0,
+        "Densidad (hab/km²)": 80.9,
+        "Región": "Europe",
+        "Subregión": "Southeast Europe",
+        "Idiomas": "Romanian",
+        "Monedas": "RON (Romanian leu)"
+    },
+    {
+        "Nombre": "Gibraltar",
+        "Población": 33691,
+        "Área (km²)": 6.0,
+        "Densidad (hab/km²)": 5615.17,
+        "Región": "Europe",
+        "Subregión": "Southern Europe",
+        "Idiomas": "English",
+        "Monedas": "GIP (Gibraltar pound)"
+    },
+    {
+        "Nombre": "Svalbard and Jan Mayen",
+        "Población": 2562,
+        "Área (km²)": 61399.0,
+        "Densidad (hab/km²)": 0.04,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Norwegian",
+        "Monedas": "NOK (krone)"
+    },
+    {
+        "Nombre": "Angola",
+        "Población": 32866268,
+        "Área (km²)": 1246700.0,
+        "Densidad (hab/km²)": 26.36,
+        "Región": "Africa",
+        "Subregión": "Middle Africa",
+        "Idiomas": "Portuguese",
+        "Monedas": "AOA (Angolan kwanza)"
+    },
+    {
+        "Nombre": "Bahamas",
+        "Población": 393248,
+        "Área (km²)": 13943.0,
+        "Densidad (hab/km²)": 28.2,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "BSD (Bahamian dollar), USD (United States dollar)"
+    },
+    {
+        "Nombre": "Eswatini",
+        "Población": 1160164,
+        "Área (km²)": 17364.0,
+        "Densidad (hab/km²)": 66.81,
+        "Región": "Africa",
+        "Subregión": "Southern Africa",
+        "Idiomas": "English, Swazi",
+        "Monedas": "SZL (Swazi lilangeni), ZAR (South African rand)"
+    },
+    {
+        "Nombre": "Brazil",
+        "Población": 212559409,
+        "Área (km²)": 8515767.0,
+        "Densidad (hab/km²)": 24.96,
+        "Región": "Americas",
+        "Subregión": "South America",
+        "Idiomas": "Portuguese",
+        "Monedas": "BRL (Brazilian real)"
+    },
+    {
+        "Nombre": "Lithuania",
+        "Población": 2794700,
+        "Área (km²)": 65300.0,
+        "Densidad (hab/km²)": 42.8,
+        "Región": "Europe",
+        "Subregión": "Northern Europe",
+        "Idiomas": "Lithuanian",
+        "Monedas": "EUR (Euro)"
+    },
+    {
+        "Nombre": "Saint Lucia",
+        "Población": 183629,
+        "Área (km²)": 616.0,
+        "Densidad (hab/km²)": 298.1,
+        "Región": "Americas",
+        "Subregión": "Caribbean",
+        "Idiomas": "English",
+        "Monedas": "XCD (Eastern Caribbean dollar)"
+    }
+]
