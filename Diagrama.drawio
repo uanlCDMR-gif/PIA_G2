@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="56zbXbjP5MMYhylMdoNp-13" value="&lt;span style=&quot;color: rgb(250, 250, 252); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(43, 43, 49);&quot;&gt;Imprimir mensaje de error&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="336" y="400" width="134" height="60" as="geometry" />
+          <mxGeometry x="301" y="400" width="204" height="60" as="geometry" />
         </mxCell>
         <mxCell id="56zbXbjP5MMYhylMdoNp-15" value="&lt;span style=&quot;color: rgb(250, 250, 252); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(43, 43, 49);&quot;&gt;Retornar None&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="326" y="500" width="154" height="60" as="geometry" />
