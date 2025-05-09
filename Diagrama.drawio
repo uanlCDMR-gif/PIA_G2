@@ -55,8 +55,14 @@
         <mxCell id="56zbXbjP5MMYhylMdoNp-17" value="&lt;span style=&quot;color: rgb(250, 250, 252); font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks; background-color: rgb(43, 43, 49);&quot;&gt;Fin&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="604" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="56zbXbjP5MMYhylMdoNp-19" value="Diagrama de Flujo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="280" y="10" width="103" height="30" as="geometry" />
+        <mxCell id="56zbXbjP5MMYhylMdoNp-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="56zbXbjP5MMYhylMdoNp-19" target="56zbXbjP5MMYhylMdoNp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="56zbXbjP5MMYhylMdoNp-19" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(205, 162, 190));&quot;&gt;Diagrama de Flujo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="229" y="15" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="56zbXbjP5MMYhylMdoNp-23" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;def&lt;/span&gt; &lt;span style=&quot;color: #dcdcaa;&quot;&gt;obtener_datos_paises&lt;/span&gt;():&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="378" y="10" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
