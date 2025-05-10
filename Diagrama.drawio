@@ -716,11 +716,29 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-170" target="kCo1dK7kk0CvY7PlmI7s-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-170" target="kCo1dK7kk0CvY7PlmI7s-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-170" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;¿Ocurrió excepción de estadística?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="299.31" y="3500" width="133.69" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-172" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Imprimir error (ej.: múltiples modas o pocos datos)&quot; → Paralelogramo → &quot;Retornar None&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="179.14999999999998" y="3700" width="374" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-174" target="kCo1dK7kk0CvY7PlmI7s-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-174" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Retornar diccionario con estadísticas&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580.49" y="3550" width="248.51" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-176" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#393C56,#FFB570);" vertex="1" parent="1">
+          <mxGeometry x="380" y="3670" width="37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-177" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#393C56,#FFB570);" vertex="1" parent="1">
+          <mxGeometry x="467.51" y="3540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-178" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Fin: analizar_estadisticas&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="621.25" y="3660" width="196" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
