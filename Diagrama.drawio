@@ -294,6 +294,9 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-7" target="kCo1dK7kk0CvY7PlmI7s-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-7" target="kCo1dK7kk0CvY7PlmI7s-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-7" value="&lt;span style=&quot;font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.8px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;¿Se obtuvieron datos correctamente?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);rounded=1;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="321" y="3370" width="159" height="170" as="geometry" />
         </mxCell>
@@ -357,8 +360,47 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-27" value="&quot;Calcular estadísticas de población (media, mediana, moda, varianza, desviación estándar)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="290.13" y="4230" width="219.87" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-30" target="kCo1dK7kk0CvY7PlmI7s-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-30" value="&quot;Mostrar estadísticas en consola&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340.065" y="4330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-32" target="kCo1dK7kk0CvY7PlmI7s-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-32" value="&quot;Exportar datos estructurados a Excel (&#39;datos_paises.xlsx&#39;)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295.06" y="4420" width="209.94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-34" target="kCo1dK7kk0CvY7PlmI7s-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-34" value="&quot;Exportar países filtrados a Excel (&#39;paises_filtrados.xlsx&#39;) (si existen)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290.13" y="4510" width="219" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-36" target="kCo1dK7kk0CvY7PlmI7s-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-36" value="&lt;span style=&quot;font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.8px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Generar gráfico de barras: Top 10 países por población&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="294.63" y="4600" width="210.37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-38" target="kCo1dK7kk0CvY7PlmI7s-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-38" value="&quot;Generar gráfico de líneas: Densidad poblacional de países filtrados (si existen)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285.02" y="4690" width="230.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-40" target="kCo1dK7kk0CvY7PlmI7s-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-40" value="&quot;Interpretar resultados estadísticos de población&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289.12" y="4790" width="220.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-42" value="&quot;Interpretar resultados estadísticos de área (si hay países filtrados)&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289.12" y="4890" width="220.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-44" value="&quot;Mostrar mensaje de error: &#39;No se pudieron obtener datos de la API.&#39;&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="638.5" y="3570" width="220.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
