@@ -566,6 +566,9 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-115" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&amp;nbsp;&quot;Dibujar gráfico de barras o líneas&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="328.01" y="3540" width="168" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-118" target="kCo1dK7kk0CvY7PlmI7s-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-118" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Imprimir mensaje de error (&#39;Tipo de gráfico no válido&#39;)&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="568.5" y="3405.5" width="269.99" height="63" as="geometry" />
         </mxCell>
@@ -615,7 +618,7 @@
           <mxGeometry x="596.5" y="3997" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-136" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Fin: graficar_datos&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="619.75" y="3530" width="165" height="80" as="geometry" />
+          <mxGeometry x="625.5" y="3520" width="165" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
