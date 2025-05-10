@@ -525,6 +525,9 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-101" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Fin: interpretar_resultados&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="5755" width="216" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-103" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;Inicio: calcular_densidad(poblacion, area)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238" y="3060" width="348" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
