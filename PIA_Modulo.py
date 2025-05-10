@@ -180,7 +180,7 @@ def guardar_datos_json(datos, nombre_archivo="datos_paises.json"):
         
         # Confirmación de guardado exitoso
         print(f"Datos guardados en {nombre_archivo}")
-    
+        
     except Exception as e:
         # Capturar errores comunes como permisos insuficientes o rutas inválidas
         print(f"Error al guardar el archivo: {e}")
