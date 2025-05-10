@@ -671,6 +671,9 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-154" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Fin: exportar_datos_excel&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="8042" width="209.5" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-156" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Inicio: analizar_estadisticas(datos_estructurados, campo)&quot;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fillColor=#F2CC8F;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2940" width="386" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
