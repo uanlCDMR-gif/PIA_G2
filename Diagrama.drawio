@@ -432,8 +432,32 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-63" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#393C56,#FFB570);" vertex="1" parent="1">
           <mxGeometry x="406.5" y="3370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-66" target="kCo1dK7kk0CvY7PlmI7s-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-66" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Agregar encabezado de sección: &#39;## Interpretación de {campo} ##&#39;&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="3285" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-68" target="kCo1dK7kk0CvY7PlmI7s-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-68" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Calcular diferencia entre media y mediana&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="588" y="3370" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-70" target="kCo1dK7kk0CvY7PlmI7s-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-70" value="diferencia = abs(media - mediana)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591" y="3430" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-72" target="kCo1dK7kk0CvY7PlmI7s-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-72" value="umbral = 0.2 * max(media, mediana)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591" y="3480" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-74" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;¿Diferencia &amp;gt; 20% del umbral?&quot;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="629" y="3540" width="154" height="147.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
