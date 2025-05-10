@@ -569,8 +569,14 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-118" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Imprimir mensaje de error (&#39;Tipo de gráfico no válido&#39;)&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="568.5" y="3405.5" width="269.99" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" edge="1" parent="1" source="kCo1dK7kk0CvY7PlmI7s-120" target="kCo1dK7kk0CvY7PlmI7s-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-120" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Generar gráfico según tipo seleccionado&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="298.01" y="3630" width="227.99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-122" value="&lt;span style=&quot;font-family: system-ui, ui-sans-serif, -apple-system, BlinkMacSystemFont, sans-serif, Inter, NotoSansHans; font-size: 16px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&quot;Rotar etiquetas del eje X (ej.: 45°) para evitar solapamiento&quot;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="283.01" y="3720" width="258" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
