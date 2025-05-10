@@ -333,8 +333,8 @@
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-19" value="&lt;span style=&quot;font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.8px; letter-spacing: 0.32px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(133, 131, 246), rgb(255, 181, 112));&quot;&gt;&quot;Mostrar países filtrados en consola&quot;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340.135" y="4160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kCo1dK7kk0CvY7PlmI7s-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540.005" y="4015" width="120" height="60" as="geometry" />
+        <mxCell id="kCo1dK7kk0CvY7PlmI7s-21" value="&quot;Mostrar mensaje: &#39;No se encontraron países que coincidan.&#39;&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=light-dark(#393C56,#FFB570);fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540.01" y="4015" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kCo1dK7kk0CvY7PlmI7s-23" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#393C56,#FFB570);" vertex="1" parent="1">
           <mxGeometry x="477" y="3420" width="60" height="30" as="geometry" />
