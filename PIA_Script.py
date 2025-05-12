@@ -22,9 +22,7 @@ from PIA_Modulo import (
 if __name__ == "__main__":
     # 1. Descargar datos originales desde la API REST Countries
     # Esta función es el punto de entrada para acceder a datos globales de países
-    datos_crudos = obtener_datos_paises()
-    
-    if datos_crudos:
+    if (datos_crudos := obtener_datos_paises()):
         # 2. Transformar datos crudos en estructura tabular (lista de diccionarios)
         # Cada país tendrá campos normalizados como "Nombre", "Población", "Región", etc.
         datos_estructurados = estructurar_datos_paises(datos_crudos)
@@ -92,8 +90,7 @@ if __name__ == "__main__":
         # 10. Interpretar estadísticas de área para países filtrados (si existen)
         if paises_filtrados:
             print("\nInterpretación del análisis de área en países filtrados:")
-            estadisticas_area = analizar_estadisticas(paises_filtrados, campo="Área (km²)")
-            if estadisticas_area:
+            if (estadisticas_area := analizar_estadisticas(paises_filtrados, campo="Área (km²)")):
                 interpretacion_area = interpretar_resultados(estadisticas_area, paises_filtrados, campo="Área (km²)")
                 print(interpretacion_area)
     else:

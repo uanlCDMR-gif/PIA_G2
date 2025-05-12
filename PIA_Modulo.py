@@ -38,23 +38,11 @@ def obtener_datos_paises():
     url = "https://restcountries.com/v3.1/all"
     
     try:
-        # Enviar solicitud GET con un tiempo máximo de espera de 10 segundos
-        # (Evita que el programa se bloquee indefinidamente por fallos de red)
-        respuesta = requests.get(url, timeout=10)
-        
-        # Verificar si la solicitud fue exitosa (código HTTP 200)
-        # Lanza una excepción si el código de estado es 4xx o 5xx
+        # Uso de expresión nombrada para simplificar la asignación y la condición
+        if (respuesta := requests.get(url, timeout=10)).status_code == 200:
+            return respuesta.json()
         respuesta.raise_for_status()
-        
-        # Convertir la respuesta JSON en una lista de diccionarios de Python
-        # La API devuelve datos en formato JSON, que Python interpreta automáticamente
-        return respuesta.json()
-    
     except requests.exceptions.RequestException as e:
-        # Manejar errores comunes de red:
-        # - Fallos de conexión (DNS, servidor caído)
-        # - Tiempo de espera excedido (timeout)
-        # - Respuestas inválidas (ej.: JSON malformado)
         print(f"Error al conectar con la API: {e}")
         return None
 
@@ -515,13 +503,11 @@ def interpretar_resultados(estadisticas, datos_originales=None, campo="Població
         pais_max = max(datos_originales, key=lambda x: x.get(campo, 0))
         pais_min = min(datos_originales, key=lambda x: x.get(campo, 0))
         
-        interpretacion.append("\n## Contexto Geográfico/Demográfico ##")
-        interpretacion.append(
-            f"- El país con mayor {campo} es **{pais_max['Nombre']}** ({pais_max[campo]})."
-        )
-        interpretacion.append(
+        interpretacion.extend([
+            "\n## Contexto Geográfico/Demográfico ##",
+            f"- El país con mayor {campo} es **{pais_max['Nombre']}** ({pais_max[campo]}).",
             f"- El país con menor {campo} es **{pais_min['Nombre']}** ({pais_min[campo]})."
-        )
+        ])
     
     # Unir todas las líneas de interpretación en un solo texto
     return "\n".join(interpretacion)
